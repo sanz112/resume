@@ -215,6 +215,18 @@
               <i class="devicons devicons-javascript"></i>
             </li>
             <li class="list-inline-item">
+              <i class="devicons devicons-ionic"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-php"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-photoshop"></i>
+            </li>
+           <li class="list-inline-item">
+              <i class="devicons devicons-windows"></i>
+            </li>
+            <li class="list-inline-item">
               <i class="devicons devicons-jquery"></i>
             </li>
             <li class="list-inline-item">
