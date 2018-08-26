@@ -1,4 +1,4 @@
 # stbootstrap
 
 
-This is CV and resume writing website
+This is my CV / resume site. Feel free to access.

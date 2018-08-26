@@ -1,0 +1,31 @@
+* {
+    text-decoration: none;
+}
+body {
+    background: url(../img/img5.jpg);
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center {
+    background: coral;
+    color: #fff;
+    margin-top: 200px;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-rows: auto;
+    text-align: center;
+}
+input {
+    width: 100%;
+}
+button {
+    cursor: pointer;
+    color: #ffffff;
+    border-radius: 20px;
+    width: 100%;
+}
