@@ -9,7 +9,7 @@ if (isset($_POST['submit'])) {
 $password = mysqli_real_escape_string($conn, $_POST["password"]);
 
 
-$sql= "SELECT * FROM `userinput`  WHERE password='$password'";
+$sql= "SELECT * FROM `pgkyawhr0bkj5mno`  WHERE password='$password'";
 $query= mysqli_query($conn,$sql);
 $row = mysqli_fetch_array($query); 
 
